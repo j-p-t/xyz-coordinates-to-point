@@ -1,5 +1,5 @@
 # Copyright (c) 2022 Juha Toivola
-# Licensed under the terms of the MIT Licence
+# Licensed under the terms of the MIT License
 
 import arcpy
 import os
